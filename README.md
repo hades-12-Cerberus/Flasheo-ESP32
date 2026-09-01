@@ -14,7 +14,7 @@ Requisitos:
 
   sudo usermod -aG uucp $USER
 
-🚀 Uso del script:
+## 🚀 Uso del script:
 
 1. Clona el repositorio con: git clone https://github.com/hades-12-Cerberus/Flasheo-ESP32.git
 
